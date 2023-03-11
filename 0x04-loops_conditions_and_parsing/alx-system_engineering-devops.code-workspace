@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "alx-system_engineering-devops",
+		"path": ".."
+	},
+	{
+		"name": "0x04-loops_conditions_and_parsing",
+		"path": "../../holberton-system_engineering-devops-master/0x04-loops_conditions_and_parsing"
+	}
+],
+  "settings": {}
+}
